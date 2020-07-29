@@ -22,7 +22,7 @@ on:
     types: [started]
 
 env:
-  REPO_URL: https://https://github.com/xiaoqingfengATGH/HomeLede
+  REPO_URL: https://github.com/xiaoqingfengATGH/HomeLede
   REPO_BRANCH: Homelede
   CONFIG_FILE: .config
   DIY_SH: diy.sh
